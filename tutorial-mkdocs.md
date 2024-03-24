@@ -38,6 +38,7 @@ a partir na pasta "docs" você pode referênciar os arquivos em markdown.
 ## como buildar
 
 $ mkdocs build
+$ mkdocs serve
 
 ## sobre
 
