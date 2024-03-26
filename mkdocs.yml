@@ -16,11 +16,9 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
-  - Documentação:
-    - Home: home.md
-  - Sprints:
-    - Sprint 0:
-      - Review: sprints/sprint0/sprint0_review.md
-      - Planning: sprints/sprint0/sprint0_planning.md
-  - About: about.md
+  - Sobre: index.md
+  - Alinhamento da equipe: 
+    - Canais de comunicação: alinhamento/canais.md
+    - Planejamento de dojos: alinhamento/dojos.md
+    - Quadro de disponibilidade: alinhamento/disponibilidade.md
+    - Quadro de conhecimento: alinhamento/heatmap.md
