@@ -1,4 +1,4 @@
-# Quadro de disponobilidade
+# Quadro de disponibilidade
 
 Para facilitar o agendamento de reuniões do time foi criada uma planilha de disponibilidade. Cada um preencheu a planilha com horários em que os integrantes estavam livres e os horários disponíveis com agendamento prévio, porém com a quantidade de pessoas na equipe foi difícil encontrar horários em que todos estivessem livres. Dessa forma, foi definido um quórum mínimo de reunião de 8 pessoas (garantindo um mínimo de metade dos MDS presentes).
 
@@ -16,3 +16,4 @@ Para facilitar o agendamento de reuniões do time foi criada uma planilha de dis
 | Alteração | Data | Autor | 
 | - | - | - |
 | Criação do documento | 27/03/24 | Sara Campos |
+| Correções | 28/03/24 | Sara Campos |

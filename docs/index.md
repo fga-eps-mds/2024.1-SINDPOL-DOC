@@ -27,7 +27,8 @@ Este é o repositório de documentação do projeto SINDPOL das disciplinas de E
 | <img src="./assets/dmesquita.jpeg" width="100">    | Davi Mesquita       | 222006650 | [@davimesquit](https://github.com/davimesquit) |
 | <img src="./assets/dnobre.jpeg" width="100">    | Davi Nobre       | 211062929 | [@jagaima](https://github.com/jagaima) |
 | <img src="./assets/guilherme.jpeg" width="100">    | Guilherme Storch       | 211030765 | [@storch7](https://github.com/storch7) |
-| <img src="./assets/joao.jpeg" width="100">    | João Victor Nobre       |  | [@](https://github.com/) |
+| <img src="./assets/milena.jpeg" width="100">    | Milena Rocha       | 222022000 | [@milenafrocha](https://github.com/milenafrocha) |
+| <img src="./assets/joao.jpeg" width="100">    | João Victor Nobre       | 202017423 | [@Gam13](https://github.com/Gam13) |
 | <img src="./assets/jose.jpeg" width="100">    | José Eduardo       | 221008202 | [@jevprado](https://github.com/jevprado) |
 
 
@@ -36,3 +37,4 @@ Este é o repositório de documentação do projeto SINDPOL das disciplinas de E
 | Alteração | Data | Autor | 
 | - | - | - |
 | Criação do documento | 26/03/24 | Sara Campos |
+| Correções | 28/03/24 | Sara Campos |
