@@ -8,10 +8,8 @@ Para facilitar o agendamento de reuniões do time foi criada uma planilha de dis
 
 | Reunião | Horário | Modelo | 
 | - | - | - |
-| Reunião com cliente | Toda segunda às 20h | Remoto
-| Dojo | Toda quarta às 21h | Remoto | 
-| Dojo | Esporadicamente em terças ou quintas às 13h | Presencial |
-
+| Reunião com cliente | Toda segunda às 20h | Remoto |
+| Dojo | Esporadicamente conforme agendamento | Remoto/Presencial | 
 
 ## Histórico de versão
 

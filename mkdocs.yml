@@ -18,7 +18,8 @@ plugins:
 nav:
   - Sobre: index.md
   - Alinhamento da equipe: 
-    - Canais de comunicação: alinhamento/canais.md
-    - Planejamento de dojos: alinhamento/dojos.md
     - Quadro de disponibilidade: alinhamento/disponibilidade.md
     - Quadro de conhecimento: alinhamento/heatmap.md
+    - Planejamento de dojos: alinhamento/dojos.md
+    - Canais de comunicação: alinhamento/canais.md
+
