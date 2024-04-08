@@ -26,7 +26,7 @@ O nosso produto: [diferença-chave].
 
 **Descrição**:
 
-Em reunião, a dinâmica de Visão do Produto foi apresentada para o cliente e guiada pela estudante Ingrid Silva, ao passo que a estudante Sara Campos fazia as alterações no [quadro Figma](https://www.figma.com/file/N0dSL6DZVPR7wI7zG9xKnI/Visao-do-Produto-2024.1?type=whiteboard&node-id=0%3A1&t=mNj66yKKZVPilcfj-1). 
+Em reunião, a dinâmica de Visão do Produto foi apresentada para o cliente e guiada pela estudante Ingrid Silva, ao passo que a estudante Sara Campos fazia as anotações no quadro Figma como pode ser observado [aqui](https://www.figma.com/file/N0dSL6DZVPR7wI7zG9xKnI/Visao-do-Produto-2024.1?type=whiteboard&node-id=0%3A1&t=mNj66yKKZVPilcfj-1). 
 
 O objetivo neste momento foi, a partir do quadro criado no semestre 2023/2, validar o que havia sido levantado, além de corrigir possíveis erros, tentar deixar a frase mais clara e adicionar o que fosse necessário. 
 
@@ -37,7 +37,11 @@ Como resultado dessa reunião, conseguimos o seguinte quadro de Visão do Produt
 
 ![Visão do Produto](../assets/visao.png)
 
-Ainda nesta reunião, foi iniciada a dinâmica de É/Nãoé - Faz/NãoFaz. Entretanto, o resultado do quadro só foi finalizado no [2º dia de Lean Inception](./enfn.md). 
+Ainda nesta reunião, foi iniciada a dinâmica de É/Nãoé - Faz/NãoFaz. Entretanto, o resultado do quadro só foi finalizado no [2º dia de Lean Inception](./dia2.md). 
+
+## Referências
+
+Lean Inception: Como alinhar pessoas e construir o produto certo. Caroli, Paulo.
 
 ## Histórico de versão
 

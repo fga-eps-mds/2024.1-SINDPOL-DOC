@@ -5,7 +5,7 @@ Este é o repositório de documentação do projeto SINDPOL das disciplinas de E
 ## Repositórios do projeto
 
 - [Documentação](https://github.com/fga-eps-mds/2024.1-SINDPOL-DOC)
-- [Frontend](https://github.com/fga-eps-mds/2024.1-SINDPOL-Front)
+<!-- - [Frontend](https://github.com/fga-eps-mds/2024.1-SINDPOL-Front) -->
 
 ## Integrantes do time
 
