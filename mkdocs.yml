@@ -22,6 +22,9 @@ nav:
     - Quadro de conhecimento: alinhamento/heatmap.md
     - Planejamento de dojos: alinhamento/dojos.md
     - Canais de comunicação: alinhamento/canais.md
+  - Lean Inception:
+    - Dia 1: lean/dia1.md
+    - Dia 2: lean/dia2.md
   - Prototipagem:
     - Identidade Visual: prototipagem/idv.md
     - Testes de usabilidade: prototipagem/testesusabilidade.md
