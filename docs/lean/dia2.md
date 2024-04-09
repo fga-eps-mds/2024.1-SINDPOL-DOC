@@ -18,7 +18,7 @@ Nesta atividade, busca-se classificar o produto seguindo quatro diretrizes. O EN
 
 **Descrição**:
 
-Nesta reunião, a dinâmica de ENFN foi novamente apresentada para o cliente e guiada pela estudante Ingrid Silva, ao passo que a estudante Sara Campos fazia as anotações no quadro Figma como pode ser observado [aqui](https://www.figma.com/file/N0dSL6DZVPR7wI7zG9xKnI/Visao-do-Produto-2024.1?type=whiteboard&node-id=0%3A1&t=mNj66yKKZVPilcfj-1). 
+Nesta reunião, a dinâmica de ENFN foi novamente apresentada para o cliente e guiada pela estudante Ingrid Carvalho, ao passo que a estudante Sara Campos fazia as anotações no quadro Figma como pode ser observado [aqui](https://www.figma.com/file/N0dSL6DZVPR7wI7zG9xKnI/Visao-do-Produto-2024.1?type=whiteboard&node-id=0%3A1&t=mNj66yKKZVPilcfj-1). 
 
 É importante ressaltar que nessa data, o quadro ENFN foi retomado após um [teste de usabilidade](../prototipagem/testesusabilidade.md) realizado com o protótipo 2023/2. As estudantes EPS presentes chegaram a conclusão de que a combinação do teste, onde navegou-se por uma versão do sistema juntamente com o PO Davi Mendonça, seguido pela ENFN ajudou bastante no esclarecimento do produto para os estudantes, assim como refrescou bastante a memória dos POs presentes que conseguiram trazer com facilidade várias características do produto para o quadro ENFN (especialmente na seção "Faz"). 
 
