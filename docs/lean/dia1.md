@@ -12,7 +12,7 @@ Que: [benefício-chave, razão para adquiri-lo],
 Diferentemente do: [alternativa da concorrência]  
 O nosso produto: [diferença-chave].
 
-## Reunião com o cliente 
+## Reunião 
 
 **Data**: 01/04/24
 

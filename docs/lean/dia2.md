@@ -4,7 +4,7 @@
 
 Nesta atividade, busca-se classificar o produto seguindo quatro diretrizes. O ENFN ajuda a esclarecer o produto através de uma dinâmica simples onde define-se: o que o produto **é**; o que o produto **não é**; o que o produto **faz**; e o que o produto **não faz**.
 
-## Reunião com o cliente 
+## Reunião 
 
 **Data**: 02/04/24
 

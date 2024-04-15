@@ -8,7 +8,7 @@ Nesse momento, a proposta é resumir o produto em seus objetivos. Assim, as fun�
 
 As personas são representações dos usuários finais do produto e trazem de forma mais realista quais necessidades aquele produto se propõe a atender. Assim, o time consegue levantar as funcionalidades tendo em mente a pessoa que irá usar o sistema. 
 
-## Reunião com o cliente 
+## Reunião 
 
 **Data**: 08/04/24
 
