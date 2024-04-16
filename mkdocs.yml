@@ -4,11 +4,28 @@ site_url: 'https://documentacao-SINDPOL.com/'
 repo_name: '2024.1 - SINDPOL'
 repo_url: 'https://github.com/fga-eps-mds/2024.1-SINDPOL-DOC'
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   palette:
-    primary: orange
-    secondary: red
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+        primary: brown
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        primary: brown
+    
   # logo:
   # favicon:
 
