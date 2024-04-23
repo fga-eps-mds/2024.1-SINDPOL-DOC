@@ -1,3 +1,3 @@
-# SINDPOL - 2024.1
+# SENTINELA - 2024.1
 
-## Repositório para documentação do projeto SINDPOL 
+## Repositório para documentação do projeto Sentinela para o SINDPOL-DF 

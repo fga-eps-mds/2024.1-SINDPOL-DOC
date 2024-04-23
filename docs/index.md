@@ -1,10 +1,10 @@
-# SINDPOL 2024.1
+# Sentinela 2024.1
 
-Este é o repositório de documentação do projeto SINDPOL das disciplinas de EPS e MDS no primeiro semestre de 2024. 
+Este é o repositório de documentação do projeto Sentinela realizado pelos alunos das disciplinas de EPS e MDS para o SINDPOL-DF no primeiro semestre de 2024. 
 
 ## Repositórios do projeto
 
-- [Documentação](https://github.com/fga-eps-mds/2024.1-SINDPOL-DOC)
+- [Documentação](https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC)
 <!-- - [Frontend](https://github.com/fga-eps-mds/2024.1-SINDPOL-Front) -->
 
 ## Integrantes do time

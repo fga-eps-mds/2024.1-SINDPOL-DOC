@@ -1,8 +1,8 @@
-site_name: 2024.1 - SINDPOL
-site_url: 'https://documentacao-SINDPOL.com/'
+site_name: 2024.1 - SENTINELA
+site_url: 'https://documentacao-SENTINELA.com/'
 
-repo_name: '2024.1 - SINDPOL'
-repo_url: 'https://github.com/fga-eps-mds/2024.1-SINDPOL-DOC'
+repo_name: '2024.1 - SENTINELA'
+repo_url: 'https://github.com/fga-eps-mds/2024.1-SENTINELA-DOC'
 
 extra_css:
   - stylesheets/extra.css
